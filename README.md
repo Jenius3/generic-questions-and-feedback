@@ -9,8 +9,8 @@ List of relative generic questions to ask and suggestions to constructive feedba
 * [ ] What are the major differences to related solutions?
 
 ### Evaluation
-* [ ] Which results do you epect on use case X?
 * [ ] How did you evaluate/validate your results?
+* [ ] Which results do you expect on use case X?
 
 ### Future Work
 * [ ] How can the solution be improved?
