@@ -21,10 +21,12 @@ List of relative generic questions to ask and suggestions to constructive feedba
 * [ ] Which results do you expect on use case X?
 
 ### Future Work
+* [ ] Of course, nothing is perfect, which parts require further research?
 * [ ] How can the solution be improved?
+* [ ] What are the next steps?
+* [ ] What are the next implementation plans (standardization, open source, API, website, library)?
 * [ ] With your experience now, would you suggest to solve the problem completely different or where are adjustments necessary to improve the results?
 * [ ] With your experience now, would you have set the focus differently?
-* [ ] Obviously, the solution is not completely perfect, which parts require further research?
 * [ ] What need to be done to apply it in practice?
 * [ ] What are the most important takeaways for companies/employees/individuals?
 
@@ -33,3 +35,12 @@ List of relative generic questions to ask and suggestions to constructive feedba
 * [ ] Can an ML based approach improve the solution?
 * [ ] How were the features/metrics derived/chosen?
 * [ ] Who benefits from this research/findings directly?
+* [ ] Are you satisfied with the solution you proposed?
+* [ ] Do you see a trend regarding observations/related solutions?
+* [ ] How could your work be an inspiration to other researchers?
+* [ ] In which cases/scenarios can the extremes of the tradeoff work hand in hand and whereis a tradeoff really needed?
+
+
+## Provoking Questions (topic specific)
+* [ ] Is it possible to have complete anonymity?
+* [ ] Is it possible to have both privacy and attack detection simultaneously?
