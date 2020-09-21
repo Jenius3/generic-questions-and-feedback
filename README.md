@@ -1,3 +1,5 @@
+[Pull requests wanted!]
+
 # Generic Questions and Constructive Feedback
 List of relative generic questions to ask and suggestions to constructive feedback after a technical talk.
 
