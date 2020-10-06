@@ -21,6 +21,7 @@ List of relative generic questions to ask and suggestions to constructive feedba
 * [ ] How did you evaluate/validate your results?
  * [ ] Proof, simulation, real-world data?
 * [ ] Which results do you expect on use case X?
+* [ ] Why did you choose this evaluation metric? Purpose? Advantages? Disadvantages? Disadvantages of others?
 
 ### Future Work
 * [ ] Of course, nothing is perfect, which parts require further research?
@@ -30,7 +31,10 @@ List of relative generic questions to ask and suggestions to constructive feedba
 * [ ] With your experience now, would you suggest to solve the problem completely different or where are adjustments necessary to improve the results?
 * [ ] With your experience now, would you have set the focus differently?
 * [ ] What need to be done to apply it in practice?
-* [ ] What are the most important takeaways for companies/employees/individuals?
+* [ ] What is the practical relevance?
+* [ ] Who and how can one profit from the results?
+* [ ] How realistic is the result (e.g. framework) in practice? Which additional entities are necessary? Which hardware/software requirements exits?
+* [ ] What are the most important takeaways for companies/employees/individuals? 
 
 ### Other
 * [ ] Where in the bigger picture fits your solution?
@@ -41,6 +45,10 @@ List of relative generic questions to ask and suggestions to constructive feedba
 * [ ] Do you see a trend regarding observations/related solutions?
 * [ ] How could your work be an inspiration to other researchers?
 * [ ] In which cases/scenarios can the extremes of the tradeoff work hand in hand and whereis a tradeoff really needed?
+* [ ] With whom/which other fields could you cooperate in order to move forward with the topic?
+* [ ] Can you explain why the result is so high/low opposite to the expectation?
+* [ ] Can you quantify that or is it just qualifiable?
+* [ ] Prevention, Detection, Reaction - which of these are represented in your solution? Could you extend your solution to cover the others?
 
 
 ## Provoking Questions (topic specific)
