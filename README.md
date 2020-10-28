@@ -16,6 +16,7 @@ List of relative generic questions to ask and suggestions to constructive feedba
 * [ ] Is the code available/open source/in form of a website?
 * [ ] Can you tell what exactly was your work and what was done by students or in cooperation?
 * [ ] Which part of the work is most crucial/most important to you?
+* [ ] Why did you choose this aspect/component to research?
 
 ### Evaluation
 * [ ] How did you evaluate/validate your results?
@@ -51,6 +52,8 @@ List of relative generic questions to ask and suggestions to constructive feedba
 * [ ] Prevention, Detection, Reaction - which of these are represented in your solution? Could you extend your solution to cover the others?
 
 
-## Provoking Questions (topic specific)
+## Provoking Questions (possibly topic specific)
+* [ ] In the retrospective - have you really achieved your initial goals?
 * [ ] Is it possible to have complete anonymity?
 * [ ] Is it possible to have both privacy and attack detection simultaneously?
+* [ ] Is there a more lightweight solution?
